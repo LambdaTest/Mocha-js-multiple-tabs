@@ -19,6 +19,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Multiple Tabs Tests acro
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ### Code
 
 Any time you switch between tabs, you'll want to use the `driver.switchTo().window(<some window>);` method. This allows you to change control from one tab to another. For example:
